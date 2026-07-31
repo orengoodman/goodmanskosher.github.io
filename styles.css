@@ -59,7 +59,7 @@ main {
 
 /* Content Box */
 .content {
-    background: rgb(0, 0, 255);
+    background: blue;
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0,0,0,.15);
